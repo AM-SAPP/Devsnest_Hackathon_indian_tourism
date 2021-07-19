@@ -4,7 +4,7 @@ function Header() {
     return (
         <Container>
              <Wrapper>
-                <a href=""><img src="https://cdn.discordapp.com/attachments/845771359643762770/866032368900243457/second.png"/></a>
+                <a href="#home"><img src="https://cdn.discordapp.com/attachments/845771359643762770/866032368900243457/second.png" alt=""/></a>
              </Wrapper>
              <LinksWrapper>
                   <a href="#home">HOME</a>
